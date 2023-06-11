@@ -13,7 +13,7 @@ const DarModeToggle = () => {
                 style={mode === "light" ? { left: "2px" } : { right: "2px" }}
             />
         </div> 
-    );
-};
+    ); 
+}; 
 
 export default DarModeToggle;
