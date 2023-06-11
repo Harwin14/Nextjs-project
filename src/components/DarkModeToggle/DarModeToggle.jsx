@@ -12,7 +12,7 @@ const DarModeToggle = () => {
                 className={styles.ball}
                 style={mode === "light" ? { left: "2px" } : { right: "2px" }}
             />
-        </div>
+        </div> 
     );
 };
 
