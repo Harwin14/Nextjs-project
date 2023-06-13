@@ -57,5 +57,5 @@ const BlogPost = async ({ params }) => {
         </div>
     );
 };
-
+ 
 export default BlogPost; 
