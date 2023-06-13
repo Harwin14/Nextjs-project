@@ -58,4 +58,4 @@ const BlogPost = async ({ params }) => {
     );
 };
 
-export default BlogPost;
+export default BlogPost; 
